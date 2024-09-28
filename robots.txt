@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cavur.github.io/RNM/sitemap.RNM.gz
